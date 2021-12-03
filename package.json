@@ -1,6 +1,6 @@
 {
     "name": "memory-game-react",
-    "homepage": "http://BrahyaPro.github.io/game-memory",
+    "homepage": "http://brahyanpro.github.io/game-memory",
     "version": "0.0.0",
     "scripts": {
         "predeploy": "yarn build",
