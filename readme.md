@@ -1,6 +1,6 @@
 # Memory Game
 
-Un juego de memoria, donde los usuarios deben recordar las posiciones de las tarjetas y abrir dos imágenes exactas secuencialmente para ganar puntos. Una vez que se abren todas las tarjetas, el usuario sale victorioso.
+Un juego de memoria, donde los usuarios deben recordar las posiciones de las tarjetas y abrir dos imágenes exactas secuencialmente para ganar puntos. Una vez que se abren todas las tarjetas, el usuario sale victorioso...
 
 ## Skill
 
